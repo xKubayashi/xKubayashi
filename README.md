@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xKubayashi
-- 👀 I'm interested in... programming, dinosaurs and other extinct animals, movies, writing.
+- 👀 I'm interested in... programming in python and java, <dinosaurs and other extinct animals, movies, writing>.
 - 🌱 I’m currently learning ... as a padawan in python.
 - 💞️ I’m looking to collaborate on ... creating bots xd.
 - 📫 How to reach me ... ''DISCORD: xkubayashi''
